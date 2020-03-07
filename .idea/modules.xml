@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biometric-Auth-Sample-master.iml" filepath="$PROJECT_DIR$/Biometric-Auth-Sample-master.iml" group="Biometric-Auth-Sample-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Biometric-Auth-Sample-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/biometric-auth/biometric-auth.iml" filepath="$PROJECT_DIR$/biometric-auth/biometric-auth.iml" group="Biometric-Auth-Sample-master/biometric-auth" />
+    </modules>
+  </component>
+</project>
